@@ -36,7 +36,6 @@ Aceleração do mouse desativada.
 
 Plano de Energia ggOS, ajustes de registro e BCD baseados nos ajustes do antigo ggOS.
 
-**https://github.com/EvertonLnX/Windows-11-LTSC-2024/blob/main/Registros%20e%20Comandos/support-windows-on-ssd.default.reg** 
-para quem usa SSD.
-
+(https://github.com/EvertonLnX/Windows-11-LTSC-2024/blob/main/Registros%20e%20Comandos/support-windows-on-ssd.default.reg)
+para quem usa SSD. Configurei para uso normal, mas esse registro é opcional, o Windows detecta se é HD ou SSD.
  
