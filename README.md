@@ -1,6 +1,6 @@
 # Windows-11-LTSC-2024
-Windows 11 LTSC 2024 Otimizado
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação desde já.
+Windows 11 LTSC 2024 Otimizado
 Codecs e encoder: HEVC e AVC, estão disponíveis para facilitar, não integrei, pois nem todos precisam.
 Todos os ajustes são baseados em modificações ggOS, Christitus e outros conhecidos pela internet.
 Sem Defender - Recomendo Kaspersky Free: https://www.kaspersky.com.br/downloads/free-antivirus.
