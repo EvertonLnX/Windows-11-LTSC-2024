@@ -1,6 +1,7 @@
 # Windows-11-LTSC-2024
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação.
-Doe e peça alguma versão específica.
+
+Ou Doe e peça alguma versão específica.
 ![image](https://github.com/user-attachments/assets/e0cc70e8-a6a5-4516-b981-925e93c4d26a)
 ![image](https://github.com/user-attachments/assets/1a584e7b-88ca-4f66-be82-747d975825ad)
 
